@@ -1,5 +1,5 @@
 # MachineLearning
-CNN Classification
+CNN_Classification
 
 google Colab
 
