@@ -6,3 +6,21 @@ google Colab
 pip install tensorflow-gpu==2.0.0-rc0
 
 pip install mlxtend==0.17.0
+
+
+ML_MNST_FASHION_LEARNING_CURVE
+
+jupter notebook
+
+comand promt - pip install conda
+
+anaconda promt -
+
+pip install numpy
+
+conda update --all
+
+pip install tensorflow
+
+pip install pandas
+
