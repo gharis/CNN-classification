@@ -12,9 +12,11 @@ pip install mlxtend==0.17.0
 
 Jupyter Notebook
 
+
 ## comand promt 
 
 pip install conda
+
 
 ## anaconda promt 
 
@@ -26,6 +28,14 @@ pip install tensorflow
 
 pip install pandas
 
+
 ## Breast_Cancer_CNN
 
 Google Colab
+
+
+## VGG16_CATDOG_CLA
+
+Google Colab
+
+use VGG16 to cat and dog classification 
