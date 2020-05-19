@@ -32,7 +32,7 @@ pip install pandas
 
 
 ## Breast_Cancer_CNN
-
+sklearn breast_cancer data set
 Google Colab
 
 
