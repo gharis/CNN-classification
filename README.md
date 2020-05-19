@@ -1,6 +1,8 @@
 # MachineLearning
 ## CNN_Classification
 
+cifar10 data set with CNN 
+
 Google Colab
 
 pip install tensorflow-gpu==2.0.0-rc0
