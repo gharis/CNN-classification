@@ -41,3 +41,15 @@ Google Colab
 Google Colab
 
 use VGG16 to cat and dog classification 
+
+## AccelerometerActivityRecognition
+Google Colab
+
+upgrade to mlxtend 0.17.2
+
+!pip install mlxtend --upgrade --no-deps 
+
+upload files to colab runtime folder
+
+https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
+
