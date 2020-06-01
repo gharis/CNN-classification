@@ -53,3 +53,6 @@ upload files to colab runtime folder
 
 https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
 
+data set
+
+http://www.cis.fordham.edu/wisdm/dataset.php
