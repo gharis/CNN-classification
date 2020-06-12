@@ -56,3 +56,15 @@ https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
 data set
 
 http://www.cis.fordham.edu/wisdm/dataset.php
+
+
+
+## MALARIA_CNN
+
+data set 
+
+https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
+import kaggle dataset 
+
+https://github.com/gharis/Data-Science/blob/master/IMPORT_DATASET_FROM_KAGGLE.ipynb
