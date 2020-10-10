@@ -5,9 +5,9 @@ cifar10 data set with CNN
 
 Google Colab
 
-pip install tensorflow-gpu==2.0.0-rc0
+    pip install tensorflow-gpu==2.0.0-rc0
 
-pip install mlxtend==0.17.0
+    pip install mlxtend==0.17.0
 
 
 ## ML_MNST_FASHION_LEARNING_CURVE
@@ -17,18 +17,18 @@ Jupyter Notebook
 
 ## comand promt 
 
-pip install conda
+    pip install conda
 
 
 ## anaconda promt 
 
-pip install numpy
+    pip install numpy
 
-conda update --all
+    conda update --all
 
-pip install tensorflow
+    pip install tensorflow
 
-pip install pandas
+    pip install pandas
 
 
 ## Breast_Cancer_CNN
@@ -47,7 +47,7 @@ Google Colab
 
 upgrade to mlxtend 0.17.2
 
-!pip install mlxtend --upgrade --no-deps 
+    !pip install mlxtend --upgrade --no-deps 
 
 upload files to colab runtime folder
 
